@@ -64,7 +64,7 @@ export const HRProvider: React.FC<{ children: React.ReactNode }> = ({ children }
 
   const fetchEmployees = async () => {
     try {
-      const response = await fetch('https://dummyjson.com/users?limit=20');
+      const response = await fetch('/karnataka_users.json');
       const data = await response.json();
       
       const processedEmployees = data.users.map((user: any) => ({

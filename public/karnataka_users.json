@@ -1,0 +1,284 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Aarav",
+      "lastName": "Kumar",
+      "email": "aarav.kumar@example.com",
+      "phone": "+91 9000000000",
+      "address": {
+        "address": "MG Road, Bengaluru",
+        "city": "Karnataka",
+        "state": "Karnataka",
+        "postalCode": "560001"
+      },
+      "age": 35
+    },
+    {
+      "id": 2,
+      "firstName": "Ishaan",
+      "lastName": "Sharma",
+      "email": "ishaan.sharma@example.com",
+      "phone": "+91 9000000001",
+      "address": {
+        "address": "Rajajinagar, Bengaluru",
+        "city": "Karnataka",
+        "state": "Karnataka",
+        "postalCode": "560001"
+      },
+      "age": 31
+    },
+    {
+      "id": 3,
+      "firstName": "Ananya",
+      "lastName": "Reddy",
+      "email": "ananya.reddy@example.com",
+      "phone": "+91 9000000002",
+      "address": {
+        "address": "Kuvempu Nagar, Mysuru",
+        "city": "Karnataka",
+        "state": "Karnataka",
+        "postalCode": "560001"
+      },
+      "age": 40
+    },
+    {
+      "id": 4,
+      "firstName": "Diya",
+      "lastName": "Patil",
+      "email": "diya.patil@example.com",
+      "phone": "+91 9000000003",
+      "address": {
+        "address": "Sadashivnagar, Bengaluru",
+        "city": "Karnataka",
+        "state": "Karnataka",
+        "postalCode": "560001"
+      },
+      "age": 25
+    },
+    {
+      "id": 5,
+      "firstName": "Vikram",
+      "lastName": "Shetty",
+      "email": "vikram.shetty@example.com",
+      "phone": "+91 9000000004",
+      "address": {
+        "address": "Malleshwaram, Bengaluru",
+        "city": "Karnataka",
+        "state": "Karnataka",
+        "postalCode": "560001"
+      },
+      "age": 42
+    },
+    {
+      "id": 6,
+      "firstName": "Rohit",
+      "lastName": "Nayak",
+      "email": "rohit.nayak@example.com",
+      "phone": "+91 9000000005",
+      "address": {
+        "address": "Jayanagar, Bengaluru",
+        "city": "Karnataka",
+        "state": "Karnataka",
+        "postalCode": "560001"
+      },
+      "age": 50
+    },
+    {
+      "id": 7,
+      "firstName": "Meera",
+      "lastName": "Hegde",
+      "email": "meera.hegde@example.com",
+      "phone": "+91 9000000006",
+      "address": {
+        "address": "Saraswathipuram, Mysuru",
+        "city": "Karnataka",
+        "state": "Karnataka",
+        "postalCode": "560001"
+      },
+      "age": 22
+    },
+    {
+      "id": 8,
+      "firstName": "Kiran",
+      "lastName": "Gowda",
+      "email": "kiran.gowda@example.com",
+      "phone": "+91 9000000007",
+      "address": {
+        "address": "Hubballi-Dharwad Main Rd, Hubballi",
+        "city": "Karnataka",
+        "state": "Karnataka",
+        "postalCode": "560001"
+      },
+      "age": 40
+    },
+    {
+      "id": 9,
+      "firstName": "Neha",
+      "lastName": "Pai",
+      "email": "neha.pai@example.com",
+      "phone": "+91 9000000008",
+      "address": {
+        "address": "Udupi Main Rd, Udupi",
+        "city": "Karnataka",
+        "state": "Karnataka",
+        "postalCode": "560001"
+      },
+      "age": 39
+    },
+    {
+      "id": 10,
+      "firstName": "Aditya",
+      "lastName": "Joshi",
+      "email": "aditya.joshi@example.com",
+      "phone": "+91 9000000009",
+      "address": {
+        "address": "Navanagar, Bagalkot",
+        "city": "Karnataka",
+        "state": "Karnataka",
+        "postalCode": "560001"
+      },
+      "age": 25
+    },
+    {
+      "id": 11,
+      "firstName": "Saanvi",
+      "lastName": "Rao",
+      "email": "saanvi.rao@example.com",
+      "phone": "+91 9000000010",
+      "address": {
+        "address": "Vidyanagar, Kalaburagi",
+        "city": "Karnataka",
+        "state": "Karnataka",
+        "postalCode": "560001"
+      },
+      "age": 23
+    },
+    {
+      "id": 12,
+      "firstName": "Harshith",
+      "lastName": "Desai",
+      "email": "harshith.desai@example.com",
+      "phone": "+91 9000000011",
+      "address": {
+        "address": "Kuvempu Layout, Shivamogga",
+        "city": "Karnataka",
+        "state": "Karnataka",
+        "postalCode": "560001"
+      },
+      "age": 42
+    },
+    {
+      "id": 13,
+      "firstName": "Krithi",
+      "lastName": "Kulkarni",
+      "email": "krithi.kulkarni@example.com",
+      "phone": "+91 9000000012",
+      "address": {
+        "address": "Hosapete Main Rd, Ballari",
+        "city": "Karnataka",
+        "state": "Karnataka",
+        "postalCode": "560001"
+      },
+      "age": 31
+    },
+    {
+      "id": 14,
+      "firstName": "Rakesh",
+      "lastName": "Nayak",
+      "email": "rakesh.nayak@example.com",
+      "phone": "+91 9000000013",
+      "address": {
+        "address": "Indiranagar, Bengaluru",
+        "city": "Karnataka",
+        "state": "Karnataka",
+        "postalCode": "560001"
+      },
+      "age": 44
+    },
+    {
+      "id": 15,
+      "firstName": "Sneha",
+      "lastName": "Bhat",
+      "email": "sneha.bhat@example.com",
+      "phone": "+91 9000000014",
+      "address": {
+        "address": "Belgaum Camp, Belagavi",
+        "city": "Karnataka",
+        "state": "Karnataka",
+        "postalCode": "560001"
+      },
+      "age": 38
+    },
+    {
+      "id": 16,
+      "firstName": "Varun",
+      "lastName": "Patil",
+      "email": "varun.patil@example.com",
+      "phone": "+91 9000000015",
+      "address": {
+        "address": "Vijayanagar, Bengaluru",
+        "city": "Karnataka",
+        "state": "Karnataka",
+        "postalCode": "560001"
+      },
+      "age": 43
+    },
+    {
+      "id": 17,
+      "firstName": "Pooja",
+      "lastName": "Shenoy",
+      "email": "pooja.shenoy@example.com",
+      "phone": "+91 9000000016",
+      "address": {
+        "address": "Yelahanka, Bengaluru",
+        "city": "Karnataka",
+        "state": "Karnataka",
+        "postalCode": "560001"
+      },
+      "age": 40
+    },
+    {
+      "id": 18,
+      "firstName": "Nikhil",
+      "lastName": "Joshi",
+      "email": "nikhil.joshi@example.com",
+      "phone": "+91 9000000017",
+      "address": {
+        "address": "Banashankari, Bengaluru",
+        "city": "Karnataka",
+        "state": "Karnataka",
+        "postalCode": "560001"
+      },
+      "age": 40
+    },
+    {
+      "id": 19,
+      "firstName": "Preeti",
+      "lastName": "Naik",
+      "email": "preeti.naik@example.com",
+      "phone": "+91 9000000018",
+      "address": {
+        "address": "Karwar Main Rd, Karwar",
+        "city": "Karnataka",
+        "state": "Karnataka",
+        "postalCode": "560001"
+      },
+      "age": 38
+    },
+    {
+      "id": 20,
+      "firstName": "Tanvi",
+      "lastName": "Rao",
+      "email": "tanvi.rao@example.com",
+      "phone": "+91 9000000019",
+      "address": {
+        "address": "Nittur, Tumakuru",
+        "city": "Karnataka",
+        "state": "Karnataka",
+        "postalCode": "560001"
+      },
+      "age": 42
+    }
+  ]
+}
